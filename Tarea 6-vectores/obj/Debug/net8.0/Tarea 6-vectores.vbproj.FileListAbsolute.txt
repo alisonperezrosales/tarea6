@@ -1,0 +1,14 @@
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\bin\Debug\net8.0\Tarea 6-vectores.exe
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\bin\Debug\net8.0\Tarea 6-vectores.deps.json
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\bin\Debug\net8.0\Tarea 6-vectores.runtimeconfig.json
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\bin\Debug\net8.0\Tarea 6-vectores.dll
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\bin\Debug\net8.0\Tarea 6-vectores.pdb
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.AssemblyInfoInputs.cache
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.AssemblyInfo.vb
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.dll
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\refint\Tarea 6-vectores.dll
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.pdb
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\Tarea 6-vectores.genruntimeconfig.cache
+C:\Users\perez\Desktop\tarea 3\Tarea 6-vectores\Tarea 6-vectores\obj\Debug\net8.0\ref\Tarea 6-vectores.dll
